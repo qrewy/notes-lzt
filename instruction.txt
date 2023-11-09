@@ -1,0 +1,5 @@
+#qrewy - Оставь отзыв) 
+
+] Скачать Node.JS - https://nodejs.org/dist/v20.5.1/node-v20.5.1-x86.msi
+] Скачать зависимости - npm i 
+] Запустить проект - node index.js
